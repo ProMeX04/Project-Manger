@@ -1,5 +1,9 @@
 # Project-Manger
 
+#### Clone project to local_machine
+```bash
+git clone https://github.com/ProMeX04/Project-Manger
+
 #### Create python virtual-enviroment
 
 ```bash
